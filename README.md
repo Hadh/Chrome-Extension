@@ -2,7 +2,7 @@
 <i> Only on Chrome </i>
 <hr>
 <h2> To Install : </h2>
-# 0- Download or clone this repo.
+#0- Download or clone this repo. <br>
 # 1- Launch Chrome.
 # 2- Go to this URL : chrome://extensions ( or open via Settings tab).
 # 3- Check Developer Mode.
