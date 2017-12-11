@@ -1,6 +1,5 @@
 # Chrome-Extension
 <i> Only on Chrome </i>
-<hr>
 <h2> To Install : </h2>
 0- Download or clone this repo. <br>
 1- Launch Chrome.<br>
